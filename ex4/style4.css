@@ -1,112 +1,101 @@
 body{
     background-color: grey;
+    margin: 0;
+    padding: 0;
 }
-
 .div1{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
+    width: 155px;
+    height: 155px;
     left: 0px;
     top: 0px;
 }
-
 .div2{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
+    width: 155px;
+    height: 155px;
     left: 0px;
-    top: 210px;
+    top: 165px;
 }
-
 .div3{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
+    width: 155px;
+    height: 155px;
     left: 0px;
-    top: 420px;
+    top: 330px;
 }
-
 .div4{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
-    left: 210px;
+    width: 155px;
+    height: 155px;
+    left: 165px;
     top: 0px;
 }
-
 .div5{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
-    left: 420px;
+    width: 155px;
+    height: 155px;
+    left: 330px;
     top: 0px;
 }
-
 .div6{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
-    left: 210px;
-    top: 210px;
+    width: 155px;
+    height: 155px;
+    left: 165px;
+    top: 165px;
 }
-
-
 .div7{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
+    width: 155px;
+    height: 155px;
     right: 0px;
     bottom: 0px;
 }
-
 .div8{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
-    right: 210px;
+    width: 155px;
+    height: 155px;
+    right: 165px;
     bottom: 0px;
 }
-
 .div9{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
-    right: 420px;
+    width: 155px;
+    height: 155px;
+    right: 330px;
     bottom: 0px;
 }
-
 .div10{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
+    width: 155px;
+    height: 155px;
     right: 0px;
-    bottom: 210px;
+    bottom: 165px;
 }
-
 .div11{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
+    width: 155px;
+    height: 155px;
     right: 0px;
-    bottom: 420px;
+    bottom: 330px;
 }
-
 .div12{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 200px;
-    height: 200px;
-    right: 210px;
-    bottom: 210px;
+    width: 155px;
+    height: 155px;
+    right: 165px;
+    bottom: 165px;
 }

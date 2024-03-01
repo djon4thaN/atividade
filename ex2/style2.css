@@ -1,39 +1,37 @@
 body{
     background-color: grey;
+    margin: 0;
+    padding: 0;
 }
-
 .div1{
     background-color: rgb(58, 58, 58);
-    position: fixed;
-    width: 250px;
-    height: 250px;
+    float: left;
+    width: 200px;
+    height: 200px;
     left: 0px;
     top: 0px;
 }
-
 .div2{
     background-color: rgb(58, 58, 58);
-    position: fixed;
-    width: 250px;
-    height: 250px;
+    float: right;
+    width: 200px;
+    height: 200px;
     right: 0px;
     top: 0px;
 }
-
 .div3{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     left: 0px;
     bottom: 0px;
 }
-
 .div4{
     background-color: rgb(58, 58, 58);
     position: fixed;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     right: 0px;
     bottom: 0px;
 }
