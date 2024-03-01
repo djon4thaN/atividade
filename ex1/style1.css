@@ -4,8 +4,11 @@ body {
 
 .box1{
     background-color: blue;
+    position: fixed;
     height: 500px;
     width: 500px;
+    left: 678px;
+    top: 220px;
 }
 
 .box2{
@@ -13,8 +16,8 @@ body {
     position: fixed;
     height: 400px;
     width: 400px;
-    bottom: 499px;
-    left: 55px;
+    left: 726px;
+    top: 273px;
 }
 
 .box3{
@@ -22,8 +25,8 @@ body {
     position: fixed;
     width: 250px;
     height: 250px;
-    bottom: 570px;
-    left: 130px;
+    left: 800px;
+    top: 348px;
 }
 
 .box4{
@@ -31,8 +34,8 @@ body {
     position: fixed;
     width: 100px;
     height: 100px;
-    bottom: 642px;
-    left: 203px;
+    left: 873px;
+    top: 427px;
 }
 
 .box5{
@@ -40,6 +43,6 @@ body {
     position: fixed;
     width: 50px;
     height: 50px;
-    bottom: 665px;
-    left: 228px;
+    left: 898px;
+    top: 455px;
 }
